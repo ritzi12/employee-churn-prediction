@@ -1,1 +1,1 @@
-# employee-churn-prediction
+# EMPLOYEE CHURN PREDICTION USING LOGISTIC REGRESSION
